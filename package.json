@@ -1,0 +1,19 @@
+{
+  "name": "khai-node-js-cource",
+  "version": "1.0.0",
+  "description": "Education Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shevchenko-andrey/khai-node-js-cource.git"
+  },
+  "author": "Shevchenko Andrey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shevchenko-andrey/khai-node-js-cource/issues"
+  },
+  "homepage": "https://github.com/shevchenko-andrey/khai-node-js-cource#readme"
+}
