@@ -9,7 +9,7 @@ router.get("/products", (request, response) => {
   return response.json(products);
 });
 
-router.get("/product/:id", blockSpecialBrand, (request, response) => {
+router.get("/product/:id", (request, response) => {
   const { id } = request.params; // Access the id parameter from the URL
 
   // Find product based on the id parameter
